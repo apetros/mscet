@@ -5,7 +5,7 @@ date: 2023-07-19
 type: landing
 
 sections:
-- block: markdown
+  - block: markdown
     content:
       title: My title
       subtitle: My subtitle
@@ -27,7 +27,8 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: Blah
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team" %}}
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
