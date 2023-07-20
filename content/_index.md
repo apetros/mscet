@@ -7,15 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: Welcome!
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        This is the official website of the joint MSc in Electronics and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
   
   - block: collection
     content:
@@ -24,6 +22,8 @@ sections:
       text:
       count: 5
       filters:
+        folders:
+          - news
         author: ''
         category: ''
         exclude_featured: false
@@ -33,8 +33,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '2'
   
   - block: markdown
     content:
