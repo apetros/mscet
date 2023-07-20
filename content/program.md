@@ -27,7 +27,7 @@ sections:
     content:
       title: My title
       subtitle: 'My subtitle'
-      text: |-
+      text: |
         {{< table path="sem1.csv" header="true" caption="Table 1: My results" >}}
     design:
       # See Page Builder docs for all section customization options.
