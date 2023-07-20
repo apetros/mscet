@@ -27,8 +27,7 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team" %}}
+      text: Blah
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
