@@ -27,8 +27,7 @@ sections:
     content:
       title: My title
       subtitle: 'My subtitle'
-      text: |
-        {{% table path="sem1.csv" header="true" caption="Table 1: My results" %}}
+      text: {{< table path="sem1.csv" header="true" caption="Table 1: My results" >}}
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
