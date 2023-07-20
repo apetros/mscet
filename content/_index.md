@@ -38,9 +38,9 @@ sections:
   
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Test
+      subtitle: 'Sub-test'
+      text: Black blah blah
     design:
       columns: '1'
       background:
@@ -60,8 +60,7 @@ sections:
     content:
       title:
       subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      text: {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
