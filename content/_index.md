@@ -22,8 +22,6 @@ sections:
       text:
       count: 5
       filters:
-        folders:
-          - news
         author: ''
         category: ''
         exclude_featured: false
