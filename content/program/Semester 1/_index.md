@@ -1,0 +1,11 @@
+---
+title: Semester 1
+linkTitle: Sem1
+summary: 
+date: '2021-01-24'
+type: book
+tags:
+  - current
+---
+
+{{< toc hide_on="xl" >}}
