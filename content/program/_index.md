@@ -1,6 +1,6 @@
 ---
 title: MSc in Electronics and Technology
-linkTitle: Program Details
+linkTitle: Program Overview
 summary: 
 date: '2021-01-24'
 type: book
