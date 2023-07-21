@@ -8,7 +8,9 @@ tags:
   - current
 ---
 
-{{< toc hide_on="xl" >}}
+{{< toc >}}
+
+{{< list_children >}}
 
 ## What you will learn
 
