@@ -1,14 +1,12 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: MSc in Electronics and Technology
+linkTitle: Program Details
+summary: 
 date: '2021-01-24'
 type: book
 tags:
   - current
 ---
-
-{{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
