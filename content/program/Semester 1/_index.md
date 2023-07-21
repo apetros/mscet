@@ -8,6 +8,4 @@ tags:
   - current
 ---
 
-{{< toc >}}
-
 {{< list_children >}}
