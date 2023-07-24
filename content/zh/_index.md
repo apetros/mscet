@@ -7,17 +7,19 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Welcome!
+      title: 欢迎！
       image:
         filename: welcome.jpg
       text: |
         <br> 
         
-        This is the official website of the joint MSc in Electronics and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
+        这是塞浦路斯 [塞浦路斯理工大学](https://cut.ac.cy) 与中国 [杭州电子科技大学](https://www.hdu.edu.cn) 电子与技术联合硕士项目的官方网站。
+
+        请切换至英文网站了解更多信息。
   
   - block: collection
     content:
-      title: Latest News
+      title: 最新消息
       subtitle:
       text:
       count: 5
