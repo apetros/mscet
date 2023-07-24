@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2022-10-24 
 type: landing
 
 sections:
@@ -11,7 +11,7 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
+        <br> 
         
         This is the official website of the joint MSc in Electronics and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
   
