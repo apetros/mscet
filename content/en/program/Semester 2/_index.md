@@ -4,8 +4,6 @@ linkTitle: Semester 2
 summary: 
 date: '2021-01-24'
 type: book
-tags:
-  - current
 ---
 
-{{< list_children >}}
+{{< list_tags >}}
