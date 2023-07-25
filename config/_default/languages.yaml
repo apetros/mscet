@@ -18,8 +18,8 @@ zh:
  menu:
    main:
      - name: 程序
-       url: 'en/program/'
+       url: 'https://mscet.netlify.app/en/program/'
        weight: 1
      - name: 人们
-       url: 'en/people/'
+       url: 'https://mscet.netlify.app/en/people/'
        weight: 2
