@@ -19,8 +19,6 @@ type: book
 
 {{< list_children >}}
 
-{{< list_tags >}}
-
 ## Meet the coordinators
 
 {{< mention "admin" >}}
