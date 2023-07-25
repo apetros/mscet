@@ -6,4 +6,4 @@ date: '2021-01-24'
 type: book
 ---
 
-{{< list_tags >}}
+{{< list_children_cust show_summary='true' >}}
