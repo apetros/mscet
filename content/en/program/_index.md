@@ -17,7 +17,7 @@ type: book
 
 ## Courses in this program
 
-{{< list_children_cust show_summary='false' >}}
+{{< list_children show_summary='false' >}}
 
 ## Meet the coordinators
 
