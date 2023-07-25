@@ -8,4 +8,4 @@ tags:
   - current
 ---
 
-{{< list_children >}}
+{{< list_children_cust show_summary='true' >}}
