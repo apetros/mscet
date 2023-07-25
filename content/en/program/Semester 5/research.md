@@ -1,6 +1,6 @@
 ---
-title: Thesis project (IV)
-linkTitle: Thesis project (IV)
+title: Practical scuentific and research training (I)
+linkTitle: Research (I)
 date: '2021-01-01'
 type: book
 weight: 20
