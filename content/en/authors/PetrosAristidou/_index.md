@@ -24,10 +24,10 @@ organizations:
 # Take these from the CVs page 111 of the document
 bio: Power and energy system informatics, control and operation of hybrid dynamical systems, and modelling and simulation of large-scale power systems.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
 # Take these from the CVs page 111 of the document
 education:
