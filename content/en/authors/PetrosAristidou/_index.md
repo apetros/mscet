@@ -58,6 +58,7 @@ email: ''
 # Do not touch
 user_groups:
   - Teaching
+  - Coordinator
 
 # The text below take it from page 13 of the document
 ---

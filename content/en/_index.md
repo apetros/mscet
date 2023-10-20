@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        This is the official website of the joint MSc in Electronics and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
+        This is the official website of the joint MSc in Electronics Science and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
   
   - block: collection
     content:
@@ -34,30 +34,30 @@ sections:
       view: compact
       columns: '2'
   
-  - block: features
-    content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-  - block: contact
-    content:
-      title: Contact
-      text: 
-      email: test@example.org
-      phone: 888 888 88 88
+  # - block: features
+  #   content:
+  #     title: My Interests
+  #     subtitle: Section subtitle
+  #     text: Section text
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
+  # - block: contact
+  #   content:
+  #     title: Contact
+  #     text: 
+  #     email: test@example.org
+  #     phone: 888 888 88 88
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
@@ -73,11 +73,11 @@ sections:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # appointment_url: 'https://calendly.com'
-      contact_links:
-       - icon: comments
-         icon_pack: fas
-         name: Discuss on Forum
-         link: 'https://discourse.gohugo.io'
+      # contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: true
