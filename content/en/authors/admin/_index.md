@@ -1,77 +1,69 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Petros Aristidou
 
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+# Full name
+first_name: Petros
+last_name: Aristidou
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Professor of Artificial Intelligence
+# Username (this should match the folder name)
+authors:
+  - PetrosAristidou
 
-# Organizations/Affiliations
+# Do not touch
+superuser: false
+
+# Take these from the CVs page 111 of the document
+role: Assistant Professor
+
+# Organizations/Affiliations (Cyprus University of Technology or Hangzhou Dianzi University )
 organizations:
-  - name: Stanford University
+  - name: Cyprus University of Technology
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Take these from the CVs page 111 of the document
+bio: Power and energy system informatics, control and operation of hybrid dynamical systems, and modelling and simulation of large-scale power systems.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
+# Take these from the CVs page 111 of the document
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Engineering Sciences
+      institution: University of Liege
+      year: 2015
+    - course: Diploma in Electrical and Computer Engineering (5 year curriculum)
+      institution: National Technical University of Athens
+      year: 2010
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+# If you cannot find their email, then put --> link: '#contact'
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:petros.aristidou@cut.ac.cy'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Do not touch
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Do not touch
 user_groups:
-  - Researchers
+  - Teaching
+  - Coordinator
+
+# The text below take it from page 13 of the document
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Petros Aristidou got his Diploma from the Department of Electrical & Computer Engineering at the National Technical University of Athens (Greece) in 2010 and his PhD at the University of Liege (Belgium) in 2015. During his PhD, he worked on domain decomposition methods for real-time dynamic security assessment of transmission systems. Then, he took a position as a Postdoctoral Researcher at the Power Systems Laboratory at ETH Zurich (Switzerland) working on the H2020 project MIGRATE trying to develop new control algorithms for future, low-inertia, power systems. Between 2016-2019 he was a Lecturer at the University of Leeds (UK), where he was leading the Smart Grids Lab. His expertise is on power system modeling, dynamics and control, with emphasis on computational methods. He has participated in several working groups looking into the challenges of low-inertia systems and has published in some of the top journals in the area, such as IEEE Transactions on Power Systems, IEEE Transactions on Smart Grids, IEEE Transactions on Power Delivery, and IEEE Transactions on Sustainable Energy.
