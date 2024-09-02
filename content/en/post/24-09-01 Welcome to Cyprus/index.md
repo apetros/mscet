@@ -2,7 +2,6 @@
 title: First 19 students arrive to Cyprus!
 date: 2024-09-01
 draft: false
-authors: PetrosAristidou
 ---
 
 We welcome the first 19 students that arrived in Cyprus for the MSc in Electronics Science and Technology!

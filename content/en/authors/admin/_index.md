@@ -9,10 +9,6 @@ last_name: Aristidou
 # Is this the primary user of the site?
 superuser: true
 
-# Username (this should match the folder name)
-authors:
-  - PetrosAristidou
-
 # Do not touch
 superuser: false
 
