@@ -21,6 +21,4 @@ type: book
 
 ## Meet the coordinators
 
-{{< mention "admin" >}}
-
-{{< mention "admin" >}}
+{{< mention "PetrosAristidou" >}}

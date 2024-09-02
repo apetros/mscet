@@ -14,7 +14,7 @@ weight: 20
 
 ## Meet your instructor
 
-{{< mention "admin" >}}
+{{< mention "PetrosAristidou" >}}
 
 ## Course content
 
