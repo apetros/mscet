@@ -1,5 +1,5 @@
 ---
-title: MSc in Electronics and Technology
+title: MSc in Electronic Science and Technology
 linkTitle: Program Overview
 summary: 
 date: '2021-01-24'
